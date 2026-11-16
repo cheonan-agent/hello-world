@@ -43,4 +43,4 @@ pip install -r requirements.txt
 
 ---
 
-Gemini 3.5 Flash-Lite
+Gemini 3.5 Flash-Lite 작성
